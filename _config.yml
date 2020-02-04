@@ -18,6 +18,7 @@ plugins:
 - jekyll-default-layout
 - jekyll-feed
 - jemoji
+- jekyll-maps
 
 # Site settings
 url: 'https://zunda.co.jp/'
@@ -50,3 +51,8 @@ collections:
     feature_text: |
       Welcome to my blog
     feature_image: "https://picsum.photos/2560/600?image=866"
+
+# Jekyll Maps Plugins
+maps:
+  google:
+    api_key: AIzaSyCB8IVjvqMWtUA0ayiWKnz9pAb9NhI56ho

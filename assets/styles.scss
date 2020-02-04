@@ -46,9 +46,22 @@ $monospacetype: (
 @import "alembic";
 
 .typeset ul, .typeset ol {
-  margin-left: 2em
+  margin-left: 0.5em
 }
 
 .typeset h1 {
   color: #ffffff
+}
+
+.maps {
+  position: relative;
+  width: 100%;
+  padding-top: 75%; /* = height ÷ width × 100 */
+}
+.maps iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }

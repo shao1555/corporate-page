@@ -16,7 +16,7 @@ feature_text: |
 
 ### Service
 
-first line workers (現場の最前線で働くスタッフ) がより活躍するためのデジタルソリューションを準備中です。
+first line workers (現場の最前線で働くスタッフ) がより活躍するためのデジタルソリューションを提供します。
 
 ### Company
 

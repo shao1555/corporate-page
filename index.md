@@ -12,11 +12,13 @@ feature_text: |
 
 ### News
 
-- 2020-01-22 ZUNDA株式会社を設立しました。
+- 2020-10-01 テレワーク環境パッケージ [ZeroTouch](https://zero-touch.zunda.co.jp/) のトライアル申込みを受付開始しました。
 
 ### Service
 
-first line workers (現場の最前線で働くスタッフ) がより活躍するためのデジタルソリューションを提供します。
+first line workers (現場の最前線で働くスタッフ) がより活躍するためのデジタルワークプレイスを提供します。
+
+- [ZeroTouch](https://zero-touch.zunda.co.jp/) — テレワークに特化したIT環境のサブスクリプションサービス
 
 ### Company
 

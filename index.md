@@ -12,13 +12,13 @@ feature_text: |
 
 ### News
 
-- 2020-10-01 テレワーク環境パッケージ [ZeroTouch](https://zero-touch.zunda.co.jp/) のトライアル申込みを受付開始しました。
+- 2020-10-01 クラウドIT環境のサブスクリプション [ZeroTouch](https://zero-touch.zunda.co.jp/) のトライアル申込みを受付開始しました。
 
 ### Service
 
-first line workers (現場の最前線で働くスタッフ) がより活躍するためのデジタルワークプレイスを提供します。
+デジタルワークプレイスのソリューション提供を通じて、テクノロジーの恩恵をあらゆる規模の職場にもたらすことを目指します。
 
-- [ZeroTouch](https://zero-touch.zunda.co.jp/) — テレワークに特化したIT環境のサブスクリプションサービス
+- [ZeroTouch](https://zero-touch.zunda.co.jp/) — クラウドIT環境のサブスクリプションサービス
 
 ### Company
 

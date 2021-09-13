@@ -39,6 +39,8 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
+- title: Privacy Policy
+  url: /legal-docs/privacy-policy
 - title: Back to top
   url: "#top"
 

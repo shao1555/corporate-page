@@ -54,15 +54,15 @@ ZUNDA株式会社（以下「当社」といいます。）は、当社の提供
 4-1   本サービスでは、以下の提携先が、ユーザーの端末にCookieを保存し、これを利用して利用者情報を蓄積及び利用している場合があります。
 
 提携先： Google
-上記提携先のプライバシーポリシーのURL： https://policies.google.com/technologies/partner-sites?hl=ja
-上記提携先のオプトアウト（無効化）URL：https://support.google.com/ads/answer/2662922?hl=ja
+上記提携先のプライバシーポリシーのURL： [https://policies.google.com/technologies/partner-sites?hl=ja](https://policies.google.com/technologies/partner-sites?hl=ja)
+上記提携先のオプトアウト（無効化）URL：[https://support.google.com/ads/answer/2662922?hl=ja](https://support.google.com/ads/answer/2662922?hl=ja)
 
 4-2   本サービスのウェブサイトには、本サービスに含む機能の提供や広告表示、利用状況解析等を目的として、以下の第三者が提供する以下の情報収集モジュールが含まれます。これらの情報収集モジュールにより取得される情報又は取得された情報の利用目的等については、各情報収集モジュール提供会社が提供しているプライバシーポリシーをご確認ください。
 
 情報収集モジュールの名称：Google Analytics
 情報収集モジュールの提供者：Google Inc.
 上記提供者における利用目的： 本サービスのサービス向上・マーケティング調査の目的でアクセス解析を行うため
-上記提供者のプライバシーポリシーのURL： https://policies.google.com/privacy?hl=ja
+上記提供者のプライバシーポリシーのURL： [https://policies.google.com/privacy?hl=ja](https://policies.google.com/privacy?hl=ja)
 
 ## 5.  第三者提供
 

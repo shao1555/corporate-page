@@ -12,12 +12,14 @@ feature_text: |
 
 ### News
 
+- 2021-09-14 パスワード漏洩やサイバー脅威からビジネスを守るパスワード管理ソリューション [Keeper managed by ZUNDA](https://keeper.zunda.co.jp/) の販売を開始しました。
 - 2020-10-01 クラウドIT環境のサブスクリプション [ZeroTouch](https://zero-touch.zunda.co.jp/) のトライアル申込みを受付開始しました。
 
 ### Service
 
 デジタルワークプレイスのソリューション提供を通じて、テクノロジーの恩恵をあらゆる規模の職場にもたらすことを目指します。
 
+- [Keeper managed by ZUNDA](https://keeper.zunda.co.jp/) — パスワード漏洩やサイバー脅威からビジネスを守るパスワード管理ソリューション
 - [ZeroTouch](https://zero-touch.zunda.co.jp/) — クラウドIT環境のサブスクリプションサービス
 
 ### Company

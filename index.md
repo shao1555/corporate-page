@@ -19,8 +19,8 @@ feature_text: |
 
 デジタルワークプレイスのソリューション提供を通じて、テクノロジーの恩恵をあらゆる規模の職場にもたらすことを目指します。
 
-- [Keeper managed by ZUNDA](https://keeper.zunda.co.jp/) — パスワード漏洩やサイバー脅威からビジネスを守るパスワード管理ソリューション
 - [ZeroTouch](https://zero-touch.zunda.co.jp/) — クラウドIT環境のサブスクリプションサービス
+- [Keeper managed by ZUNDA](https://keeper.zunda.co.jp/) — パスワード漏洩やサイバー脅威からビジネスを守るパスワード管理ソリューション
 
 ### Company
 

@@ -41,6 +41,8 @@ navigation_header:
 navigation_footer:
 - title: Privacy Policy
   url: /legal-docs/privacy-policy
+- title: Public Notice
+  url: /legal-docs/public-notice
 - title: Back to top
   url: "#top"
 

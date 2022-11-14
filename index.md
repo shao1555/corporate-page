@@ -1,28 +1,40 @@
 ---
 title: 
 layout: page
-feature_image: "/assets/cover.jpg"
-feature_text: |
-  # ZUNDA Inc.
+feature_image:
+feature_text: A Free And Secure Digital Workplace
+
 ---
+はじめまして、ZUNDA株式会社です。<br>
+私たちは、テクノロジーを通じて自由で安全なデジタル・ワークプレイスを提供し、事業の成長を後押しします。
 
-## Increase what you can do
+# News
 
-デジタルテクノロジーを活用した「新たな働き方」を提供することにより、あなたができることを増やしていきます。
-
-### News
-
+- 2022-11-14 弊社代表の澤田が、ジョーシス 株式会社主催の「[【ジョーシストーーク #1】「パスワードレス」を語ろう](https://josys.com/seminar/20221118)」のパネルトークにゲストとして登壇します。
 - 2021-09-14 パスワード漏洩やサイバー脅威からビジネスを守るパスワード管理ソリューション [Keeper managed by ZUNDA](https://keeper.zunda.co.jp/) の販売を開始しました。
-- 2020-10-01 クラウドIT環境のサブスクリプション [ZeroTouch](https://zero-touch.zunda.co.jp/) のトライアル申込みを受付開始しました。
 
-### Service
+<div id="twitter">
+<a class="twitter-timeline" data-height="500" data-theme="light" href="https://twitter.com/ZUNDA_IT?ref_src=twsrc%5Etfw">Tweets by ZUNDA_IT</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
-デジタルワークプレイスのソリューション提供を通じて、テクノロジーの恩恵をあらゆる規模の職場にもたらすことを目指します。
+# Service
+## コンサルティングサービス
+会社や事業のおかれている課題や要求事項にあわせ、SaaSとクラウドを活用した生産性の高い「デジタルワークプレイス」を提案します。
 
-- [ZeroTouch](https://zero-touch.zunda.co.jp/) — クラウドIT環境のサブスクリプションサービス
+## 主な取扱製品・サービス
+各種SaaSの販売から構築、運用まで一貫して、ご提供可能です。
+
+Slackなどのチャットツールを活用したサポート、電子契約にも対応。代理店経由でも直販となるべく近い購買体験を目指します。また、サポートポータルからチケットを切っていただくことで、経験豊富なメンバーが貴社のお悩みを解決します。
+
 - [Keeper managed by ZUNDA](https://keeper.zunda.co.jp/) — パスワード漏洩やサイバー脅威からビジネスを守るパスワード管理ソリューション
+- Google Workspace
+- Micirosoct 365
+- Jamf Pro
+- Cloudflare Zero Trust
+- Github Enterprise
+- Sentinel One
 
-### Company
+# Company
 
 - 会社名: ZUNDA株式会社
 - 代表者: 澤田翔

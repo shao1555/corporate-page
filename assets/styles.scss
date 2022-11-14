@@ -20,7 +20,7 @@ $white: #ffffff !default;
 
 // Typography
 $bodytype: (
-  font-family: "Questrial, serif",
+  font-family: "'Noto Sans JP', Questrial, serif",
   regular: 400,
   bold: 700,
   italic: italic,
@@ -28,7 +28,7 @@ $bodytype: (
 ) !default;
 
 $headingtype: (
-  font-family: "Questrial, serif",
+  font-family: "'Noto Sans JP', Questrial, serif",
   regular: 400,
   bold: 700,
   cap-height: 0.75
@@ -45,12 +45,64 @@ $monospacetype: (
 
 @import "alembic";
 
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@400;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&family=Noto+Sans+JP:wght@400;700&display=swap');
+
+.feature {
+  padding-bottom: .4rem;
+  margin-bottom: 1.6rem;
+  border-top: 1px solid #333;
+  border-bottom: 1px solid #333;
+  color: black;
+  text-align: center;
+  background: white;
+  /* background: $featureBackgroundColour; */
+  background-size: cover;
+  background-position: center;
+  .container {
+    min-height: 35vh;
+    max-width: 80%;
+    font-size: 2.5rem;
+    font-family: 'Montserrat';
+    font-weight: 800;
+    @include flex-direction(column);
+    @include justify-content(center);
+  }
+}
+
 .typeset ul, .typeset ol {
-  margin-left: 0.5em
+  margin-left: 0.5em;
+  margin-right: 0.5em
+}
+
+#page-title { 
+  color:red;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto
 }
 
 .typeset h1 {
-  color: #ffffff
+  color: black;
+  font-family: 'Montserrat', 'Noto Sans JP', sans-serif;
+  font-size: 2rem;
+  font-weight: 800
+}
+
+.typeset h2 {
+  color: black;
+  font-family: 'Noto Sans JP', 'Montserrat', sans-serif;
+  font-size: 1.75rem;
+  font-weight: 800
+}
+
+#twitter {
+  width: 80%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .maps {

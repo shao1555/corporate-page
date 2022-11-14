@@ -36,6 +36,8 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
+- title: Jobs
+  url: /jobs
 
 # Footer nav
 navigation_footer:

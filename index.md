@@ -26,13 +26,13 @@ feature_text: A Free And Secure Digital Workplace
 
 Slackなどのチャットツールを活用したサポート、電子契約にも対応。代理店経由でも直販となるべく近い購買体験を目指します。また、サポートポータルからチケットを切っていただくことで、経験豊富なメンバーが貴社のお悩みを解決します。
 
-- [Keeper managed by ZUNDA](https://keeper.zunda.co.jp/) — パスワード漏洩やサイバー脅威からビジネスを守るパスワード管理ソリューション
-- Google Workspace
-- Micirosoct 365
-- Jamf Pro
-- Cloudflare Zero Trust
-- Github Enterprise
-- Sentinel One
+- <b>[Keeper managed by ZUNDA](https://keeper.zunda.co.jp/) </b> — パスワード管理
+- <b>Micirosoct 365</b> — クラウドグループウェア
+- <b>Google Workspace</b> — クラウドグループウェア
+- <b>Jamf Pro</b>　- モバイル端末管理（MDM）
+- <b>Cloudflare Zero Trust</b> - ネットワークセキュリティ
+- <b>Github Enterprise</b> - コラボレーションサービスß
+- <b>Sentinel One</b> - 端末セキュリティ
 
 # Company
 

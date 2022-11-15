@@ -2,7 +2,7 @@
 title: 
 layout: page
 feature_image:
-feature_text: A Free And Secure Digital Workplace
+feature_text: Providing a free and secure digital workplace through technology to drive business growth.
 
 ---
 はじめまして、ZUNDA株式会社です。<br>
@@ -27,12 +27,12 @@ feature_text: A Free And Secure Digital Workplace
 Slackなどのチャットツールを活用したサポート、電子契約にも対応。代理店経由でも直販となるべく近い購買体験を目指します。また、サポートポータルからチケットを切っていただくことで、経験豊富なメンバーが貴社のお悩みを解決します。
 
 - <b>[Keeper managed by ZUNDA](https://keeper.zunda.co.jp/) </b> — パスワード管理
-- <b>Micirosoct 365</b> — クラウドグループウェア
+- <b>Microsoft 365</b> — クラウドグループウェア
 - <b>Google Workspace</b> — クラウドグループウェア
 - <b>Jamf Pro</b>　- モバイル端末管理（MDM）
 - <b>Cloudflare Zero Trust</b> - ネットワークセキュリティ
-- <b>Github Enterprise</b> - コラボレーションサービスß
-- <b>Sentinel One</b> - 端末セキュリティ
+- <b>GitHub Enterprise</b> - ソースコードの管理と共同作業
+- <b>Microsoft Surface</b> - Microsoft社の最新端末シリーズ
 
 # Company
 

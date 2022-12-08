@@ -21,6 +21,8 @@ feature_text: Providing a free and secure digital workplace through technology t
 ## コンサルティングサービス
 会社や事業のおかれている課題や要求事項にあわせ、SaaSとクラウドを活用した生産性の高い「デジタルワークプレイス」を提案します。
 
+サービス紹介資料は<b>[こちら](https://drive.google.com/file/d/1fBp5PwR2T0AyAkiM_Ocr9uORA4NDfp5u/view?usp=share_link)</b>
+
 ## 主な取扱製品・サービス
 各種SaaSの販売から構築、運用まで一貫して、ご提供可能です。
 

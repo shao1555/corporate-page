@@ -10,9 +10,10 @@ feature_text: Providing a free and secure digital workplace through technology t
 
 # News
 
-- 2023-1-13 弊社共同創業者・取締役の澤田と藤井が、日本ビジネステクノロジー協会主催の「[【Business Technology Conference Japan 2023](https://btcon.jp/)」のスポンサーセッション（1月21日 15:30〜）に登壇します。
-- 2023-1-13 弊社取締役の藤井が登壇した、ジョーシス株式会社主催の「[【ジョーシスラーニング】パスワード管理から始める情報セキュリティ](https://jp.josys.com/seminar/20230119)」のアーカイブ配信が2023年1月19日（木）13:00より再放送されることになりました。
-- 2022-11-14 弊社代表の澤田が、ジョーシス株式会社主催の「[【ジョーシストーーク #1】「パスワードレス」を語ろう](https://josys.com/seminar/20221118)」のパネルトークにゲストとして登壇します。
+- 2023-03-28 弊社代表の澤田が[情シスSlack4周年・BTAJP1周年記念イベント #BTAJP #BTCONJP](https://corp-engr.connpass.com/event/274770/)に登壇します。
+- 2023-03-27 情シスのみなさまにホットなトピックをお届けするポッドキャスト「[IT Admin Radio](https://podcasters.spotify.com/pod/show/it-admin-radio)」をはじめました。([ブログ記事](https://blog.zunda.co.jp/blog/it-admin-radio))
+- 2023-01-13 弊社共同創業者・取締役の澤田と藤井が、日本ビジネステクノロジー協会主催の「[【Business Technology Conference Japan 2023](https://btcon.jp/)」のスポンサーセッション（1月21日 15:30〜）に登壇します。
+- 2023-01-13 弊社取締役の藤井が登壇した、ジョーシス株式会社主催の「[【ジョーシスラーニング】パスワード管理から始める情報セキュリティ](https://jp.josys.com/seminar/20230119)」のアーカイブ配信が2023年1月19日（木）13:00より再放送されることになりました。
 - 2021-09-14 パスワード漏洩やサイバー脅威からビジネスを守るパスワード管理ソリューション [Keeper managed by ZUNDA](https://keeper.zunda.co.jp/) の販売を開始しました。
 
 <div id="twitter">
